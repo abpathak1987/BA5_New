@@ -45,14 +45,9 @@ h2 {
   max-width: 50%;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  /* Adjust height and width */
-  height: 300px; /* Adjust to your desired height */
-  width: 300px;  /* Adjust to your desired width */
-
-  /* Adjust position */
-  margin-left: 50px; /* Adjust to shift left */
-  margin-right: 350px; /* Adjust to shift right */
-
-  /* Maintain aspect ratio */
-  object-fit: cover; /* Or 'contain' to prevent cropping */
+  height: 300px;
+  width: 300px;  
+  margin-left: 50px; 
+  margin-right: 350px;  
+  object-fit: cover;
 }
